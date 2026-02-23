@@ -181,6 +181,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [fortitudo.tech](https://github.com/fortitudo-tech/fortitudo.tech) - Conditional Value-at-Risk (CVaR) portfolio optimization and Entropy Pooling views / stress-testing in Python.
 - [Quant Lab Alpha](https://github.com/husainm97/quant-lab-alpha) — Portfolio risk decomposition and Monte Carlo simulation toolkit with factor-based modeling.
 - [quantitative-finance-tools](https://github.com/omichauhan-lgtm/quantitative-finance-tools) - Library for portfolio optimization (MVO) and rigorous risk metrics (VaR/CVaR).
+- [curistat](https://github.com/moxiespirit/MyClone/tree/main/volatility_platform) - Futures volatility forecasting platform for ES/NQ. Proprietary CVN rating (1-10), regime detection (CRC composite), 8 directional signals, economic event impact analytics. Includes MCP server for AI agent integration.
 
 ### Factor Analysis
 
