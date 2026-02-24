@@ -70,6 +70,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [rateslib](https://github.com/attack68/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps.
 - [fypy](https://github.com/jkirkby3/fypy) - Vanilla and exotic option pricing library to support quantitative R&D. Focus on pricing interesting/useful models and contracts (including and beyond Black-Scholes), as well as calibration of financial models to market data.
 - [quantra](https://github.com/joseprupi/quantraserver) High-performance pricing engine built on QuantLib. It exposes QuantLib's functionality through gRPC and REST APIs, enabling distributed computations with FlatBuffers serialization.
+- [optionlab](https://github.com/rgaveiga/optionlab) - A Python library for evaluating option trading strategies.
 
 ### Indicators
 
@@ -99,7 +100,6 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [pyalgotrade](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library.
 - [basana](https://github.com/gbeced/basana) - A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.
 - [tradingWithPython](https://pypi.org/project/tradingWithPython/) - A collection of functions and classes for Quantitative trading.
-- [Pandas TA](https://github.com/twopirllc/pandas-ta) - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
 - [ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python)
 - [algobroker](https://github.com/joequant/algobroker) - This is an execution engine for algo trading.
 - [pysentosa](https://pypi.org/project/pysentosa/) - Python API for sentosa trading system.
@@ -167,6 +167,9 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [DayTradingBench](https://daytradingbench.com) - Live autonomous benchmark that evaluates LLM trading performance on DAX and Nasdaq indices using identical strategies and real-time market data. API access available.
 - [CoinTester](https://cointester.io) - No-code crypto backtesting platform with 100+ indicators, AI sentiment signals, and 5+ years of historical data across 1,000+ trading pairs.
 - [PythonTradingFramework](https://github.com/JustinGuese/python_tradingbot_framework) ![Github last commit (branch)](https://img.shields.io/github/last-commit/JustinGuese/python_tradingbot_framework/main) - Python algorithmic trading bot framework for Kubernetes: backtesting, hyperparameter optimization, 150+ technical analysis indicators (RSI, MACD, Bollinger Bands, ADX), portfolio management, PostgreSQL integration, Helm deployment, CronJob scheduling. Minimal overhead, production-ready, Yahoo Finance data.
+- [QTradeX-AI-Agents](https://github.com/squidKid-deluxe/QTradeX-AI-Agents) - Example strategies for the QTradeX platfrom.
+- [QTradeX-Algo-Trading-SDK](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) - AI-powered SDK featuring algorithmic trading, backtesting, deployment on 100+ exchanges, and multiple optimization engines.
+- [antback](https://github.com/ts-kontakt/antback) - A lightweight, event-loop-style backtest engine that allows a function-driven imperative style using efficient stateful helper functions and data containers.
 
 ### Risk Analysis
 
@@ -197,6 +200,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive alpha factors.
 - [alphalens-reloaded](https://github.com/stefan-jansen/alphalens-reloaded) - Performance analysis of predictive (alpha) stock factors.
 - [Spectre](https://github.com/Heerozh/spectre) - GPU-accelerated Factors analysis library and Backtester
+- [quant-lab-alpha](https://github.com/husainm97/quant-lab-alpha) - Open-source investment analytics platform bridging academic research and retail finance.
 
 ### Sentiment Analysis
 - [Asset News Sentiment Analyzer](https://github.com/KVignesh122/AssetNewsSentimentAnalyzer) - Sentiment analysis and report generation package for financial assets and securities utilizing GPT models.
@@ -301,6 +305,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [edgar-sec](https://nikhilxsunder.github.io/edgar-sec/) - EDGAR Financial data API with preprocessed dataclass outputs.
 - [edgartools](https://github.com/dgunning/edgartools) - AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
 - [FXMacroData](https://fxmacrodata.com/) - Real-time forex macroeconomic API for all major currency pairs sourced from central bank announcements.
+- [wallstreet](https://github.com/mcdallas/wallstreet) - Real time stock and option data.
 
 ### Excel Integration
 
@@ -627,3 +632,7 @@ date conversion, scaling factor values, and filtering by the specified date.
 - [AFML](https://github.com/boyboi86/AFML) - All the answers for exercises from Advances in Financial Machine Learning by Dr Marco Lopez de Parodo.
 - [AlgoTradingLib](https://github.com/usdaud/algotradinglib.github.io) - A catalog of algorithmic trading libraries, frameworks, strategies, and educational materials.
 Add Prop Trader Compass to Risk Management tools
+
+## Related Lists
+
+- [awesome-sec-filings](https://github.com/vibeyclaw/awesome-sec-filings) - A curated list of tools, data sources, libraries, and resources for working with SEC filings (13F, 10-K, 10-Q, 8-K).
