@@ -248,6 +248,9 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [ccy](https://github.com/lsbardel/ccy) - Python module for currencies.
 - [tushare](https://pypi.org/project/tushare/) - A utility for crawling historical and Real-time Quotes data of China stocks.
 - [jsm](https://pypi.org/project/jsm/) - Get the japanese stock market data.
+- [edinet-mcp](https://github.com/ajtgjmdjp/edinet-mcp) - Parse Japanese XBRL financial statements from EDINET with 161 normalized labels, 26 financial metrics, and multi-company screening.
+- [estat-mcp](https://github.com/ajtgjmdjp/estat-mcp) - Access Japanese government statistics (e-Stat) covering population, GDP, CPI, labor, and trade data with MCP integration and Polars export.
+- [tdnet-disclosure-mcp](https://github.com/ajtgjmdjp/tdnet-disclosure-mcp) - Access Japanese timely disclosures (TDNet) via MCP. Retrieve earnings, dividends, forecasts, buybacks, and other filings for 4,000+ listed companies. No API key required.
 - [cn_stock_src](https://github.com/jealous/cn_stock_src) - Utility for retrieving basic China stock data from different sources.
 - [coinmarketcap](https://github.com/barnumbirr/coinmarketcap) - Python API for coinmarketcap.
 - [coinpulse](https://github.com/soutone/coinpulse-python) - Python SDK for cryptocurrency portfolio tracking with real-time prices, P/L calculations, and price alerts. Free tier available.
